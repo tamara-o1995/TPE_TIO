@@ -5,7 +5,7 @@
 
 body {
     font-family: PoppinsRegular, Arial, Helvetica, sans-serif;
-    background: linear-gradient(#98b0bf, #e4bab0ae, #7e97a7, #e0c3b1);
+    background: linear-gradient(#98b0bf, #e4bab0ae, #4be093, #e0c3b1);
     font-size: small;
 }
 
@@ -19,10 +19,10 @@ h1 {
     font-size: large;
 }
 h2, h3, h4, section a {
-    color: #154360;
+    color: #3c24da;
 }
 h5{
-    color: #e0c3b1;
+    color: #3f1d3f;
 }
 header, h3, h4, h5, section a {
     text-transform: uppercase;
@@ -54,7 +54,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #32506a;
+    background: #da77e7;
     padding: 0px 10px;
 }
 nav li a {
