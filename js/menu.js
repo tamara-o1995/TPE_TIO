@@ -9,4 +9,6 @@ function iniciarPagina() {
     function toggleMenu() { 
         document.querySelector(".navigation").classList.toggle("show");
     }
+
+    document.querySelector("#imagen-portada").classList.add("hide");
 }

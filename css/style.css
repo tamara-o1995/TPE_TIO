@@ -50,6 +50,10 @@ ul.navigation.show {
     padding: 0;
 }
 
+.hide{
+    display: none;
+}
+
 nav {
     display: flex;
     align-items: center;
